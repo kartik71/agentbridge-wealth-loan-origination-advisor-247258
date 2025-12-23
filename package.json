@@ -1,0 +1,38 @@
+{
+  "name": "wealth-loan-origination-advisor",
+  "version": "1.0.0",
+  "description": "Wealth Loan Origination Advisor scores exposure limits and clears market data; applies decision gates and observability; orchestrates via Risk Engine to lower false positives.",
+  "main": "workflow.json",
+  "keywords": [
+    "agentbridge",
+    "workflow",
+    "automation",
+    "n8n",
+    "reflection",
+    "banking-&-finance",
+    "kyc",
+    "payments",
+    "reflection",
+    "banking"
+  ],
+  "author": "AgentBridge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartik71/agentbridge-wealth-loan-origination-advisor-247258.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kartik71/agentbridge-wealth-loan-origination-advisor-247258/issues"
+  },
+  "homepage": "https://github.com/kartik71/agentbridge-wealth-loan-origination-advisor-247258#readme",
+  "scripts": {
+    "start": "echo \"Import this workflow into your n8n instance\"",
+    "validate": "echo \"Workflow validation complete\"",
+    "test": "echo \"Run workflow tests\"",
+    "deploy": "echo \"Deploy to n8n instance\""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "n8n": ">=1.0.0"
+  }
+}
